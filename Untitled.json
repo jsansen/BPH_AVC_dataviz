@@ -5,11 +5,7 @@
     "separator": ";",
     "skip": 0,
     "meta": [
-        {
-            "type": "id",
-            "index": 0,
-            "name": "Code"
-        }
+       
     ],
     "sets": [
         {
